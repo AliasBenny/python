@@ -1,5 +1,5 @@
 import math
-n = 25
+n=int(input("enter the no of elements for the series"))
 k = 1
 f = 1
 i = 0
